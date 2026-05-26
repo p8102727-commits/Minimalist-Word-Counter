@@ -1,0 +1,7 @@
+{
+  "name": "Minimalist Ad Space",
+  "description": "A minimalist website layout optimized for AdSense integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
