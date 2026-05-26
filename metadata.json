@@ -1,6 +1,6 @@
 {
-  "name": "Minimalist Ad Space",
-  "description": "A minimalist website layout optimized for AdSense integration.",
+  "name": "Minimalist Word Counter",
+  "description": "A beautiful, premium, minimalist word counter and analysis tool with customizable goals, PDF/TXT export options, and interactive 3D orb styling.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
